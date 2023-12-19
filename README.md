@@ -598,4 +598,4 @@ Audit Trail mit Triggern: Die Verwendung von SQL Server Triggern für das Auditi
 
 ## Selbsteinschätzung
 
-Auch wenn ich vielleicht nicht alles zu 100% abdecken konnte, denke ich, dass ich den Grossteil der Kompetenzen im Modul 183 erreicht habe.
+Auch wenn ich vielleicht nicht alles zu 100% abdecken konnte, denke ich, dass ich den Grossteil der Kompetenzen im Modul 183 erreicht habe. Das, bei dem ich mir wahrscheinlich am unsichersten war, ist wie ich das Erreichen der Handlungsziele richtig beschreiben soll. Auch wenn das Modul 183 nicht mein Lieblingsmodul war, da ich so viel Theorie nicht besonders mag, habe ich doch einiges gelernt. Ich denke, dass ich das Wissen, das ich in diesem Modul erworben habe, in Zukunft gut gebrauchen kann.
